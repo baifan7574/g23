@@ -2788,4 +2788,4 @@
 [OK] D:\项目\g23\uniform\page7.html
 [OK] D:\项目\g23\uniform\page8.html
 [OK] D:\项目\g23\uniform\page9.html
-[WARN] 提交 sitemap 失败: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+[PING] 提交 sitemap 到 Google: https://www.google.com/ping?sitemap=https://g23.nbfive.com/sitemap.xml
